@@ -53,7 +53,7 @@ AI-powered wearable assistive technology designed to help visually impaired user
 
 ---
 
-### 🌱 AgroNex / CropShield
+### 🌱 AgroNex
 AI-assisted crop health decision-support platform combining image analysis, contextual risk assessment, weather information and expert validation.
 
 **Tech:** Computer Vision · Machine Learning · React · AI
